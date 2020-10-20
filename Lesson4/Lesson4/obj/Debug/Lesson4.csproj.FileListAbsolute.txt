@@ -1,0 +1,7 @@
+D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Lesson4\Lesson4\bin\Debug\Lesson4.exe.config
+D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Lesson4\Lesson4\bin\Debug\Lesson4.exe
+D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Lesson4\Lesson4\bin\Debug\Lesson4.pdb
+D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Lesson4\Lesson4\obj\Debug\Lesson4.csprojAssemblyReference.cache
+D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Lesson4\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Lesson4\Lesson4\obj\Debug\Lesson4.exe
+D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Lesson4\Lesson4\obj\Debug\Lesson4.pdb
