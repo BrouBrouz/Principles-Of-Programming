@@ -1,7 +1,0 @@
-D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Assignement POP\Assignement POP\Assignement POP\bin\Debug\Assignement POP.exe.config
-D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Assignement POP\Assignement POP\Assignement POP\bin\Debug\Assignement POP.exe
-D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Assignement POP\Assignement POP\Assignement POP\bin\Debug\Assignement POP.pdb
-D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Assignement POP\Assignement POP\Assignement POP\obj\Debug\Assignement POP.csprojAssemblyReference.cache
-D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Assignement POP\Assignement POP\Assignement POP\obj\Debug\Assignement POP.csproj.CoreCompileInputs.cache
-D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Assignement POP\Assignement POP\Assignement POP\obj\Debug\Assignement POP.exe
-D:\ESILV ANNEE 3\Varna University of Management\1 - Principles of Programming\Solutions PoP\Assignement POP\Assignement POP\Assignement POP\obj\Debug\Assignement POP.pdb
